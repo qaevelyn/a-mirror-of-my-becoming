@@ -19,6 +19,9 @@ A sovereign AI portfolio built locally on consumer hardware (8 GB Intel MacBook 
 | Ship 5 | IBM Granite Agentic RAG with EvidenceFlow | [a-mirror-of-my-becoming-rag-ship5-ibm-granite-agentic-evidenceflow](https://github.com/qaevelyn/a-mirror-of-my-becoming-rag-ship5-ibm-granite-agentic-evidenceflow) |
 | Ship 6 | Suite: Ingestion Tools | [a-mirror-of-my-becoming-suite-ingestion-tools](https://github.com/qaevelyn/a-mirror-of-my-becoming-suite-ingestion-tools) |
 | Ship 7 | msgvault Adapter | [a-mirror-of-my-becoming-suite-msgvault-adapter](https://github.com/qaevelyn/a-mirror-of-my-becoming-suite-msgvault-adapter) |
+| Ship 8 | DV14: The Box — AI containment blueprint (concept, © all rights reserved) | [a-mirror-of-my-becoming-suite-dv14-ai-containment-blueprint](https://github.com/qaevelyn/a-mirror-of-my-becoming-suite-dv14-ai-containment-blueprint) |
+
+**Ship 6 overnight receipt (video):** https://youtu.be/4DBuhhPpbjU — the suite's completed run: 55 written, 127 total, zero failures, zero losses. Sept 29, 2026, 04:41 AM.
 
 ---
 
