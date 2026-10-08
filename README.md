@@ -12,7 +12,7 @@ A sovereign AI portfolio built locally on consumer hardware (8 GB Intel MacBook 
 
 | Ship | What | Repo |
 |------|------|------|
-| Ship 1 | DeepSeek RAG, rebuilt local | [a-mirror-of-my-becoming-rag-ship1-deepseek-rag-local](https://github.com/qaevelyn/a-mirror-of-my-becoming-rag-ship1-deepseek-rag-local) |
+| Ship 1 | DeepSeek RAG, rebuilt local | [a-mirror-of-my-becoming-rag-ship1-deepseek](https://github.com/qaevelyn/a-mirror-of-my-becoming-rag-ship1-deepseek-rag-local) |
 | Ship 2 | IBM Granite Agentic RAG | [a-mirror-of-my-becoming-rag-ship2-ibm-granite-agentic](https://github.com/qaevelyn/a-mirror-of-my-becoming-rag-ship2-ibm-granite-agentic) |
 | Ship 3 | IBM Granite Standard RAG | [a-mirror-of-my-becoming-rag-ship3-ibm-granite](https://github.com/qaevelyn/a-mirror-of-my-becoming-rag-ship3-ibm-granite) |
 | Ship 4 | IBM Granite Agentic RAG | [a-mirror-of-my-becoming-rag-ship4-ibm-granite-agentic](https://github.com/qaevelyn/a-mirror-of-my-becoming-rag-ship4-ibm-granite-agentic) |
