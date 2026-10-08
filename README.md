@@ -34,7 +34,7 @@ A sovereign AI portfolio built locally on consumer hardware (8 GB Intel MacBook 
 
 ## The Doctrine
 
-- **AGPL-3.0** everything — free for the mission-aligned, commercial lane for the rest
+- **AGPL-3.0 for the tools** — Ships 1–7: free for the mission-aligned, commercial lane for the rest. **DV14 is commercial-only** — a sealed design specification, available under NDA.
 - **Fail-closed** — every claim traceable, or the system abstains
 - **The cache is not the corpus** — data lives on disk the owner controls
 - **The record shows its own revision** — a record that hides its corrections is publicity, not documentation
@@ -43,7 +43,7 @@ A sovereign AI portfolio built locally on consumer hardware (8 GB Intel MacBook 
 
 ## License
 
-Each ship is dual-licensed: **AGPL-3.0** + commercial license. See individual repos.
+Ships 1–7 are dual-licensed: **AGPL-3.0** + commercial license. DV14 (Ship 8) is a commercial-only design specification — private, Bitcoin-timestamped 2026-09-19, available under NDA. See individual repos.
 
 Free does not mean free to exploit. If you build a product on this work, the author expects to be paid.
 
