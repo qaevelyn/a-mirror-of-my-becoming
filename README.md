@@ -21,7 +21,7 @@ A sovereign AI portfolio built locally on consumer hardware (8 GB Intel MacBook 
 **Ship 6 overnight receipt (video):** https://youtu.be/4DBuhhPpbjU — the suite's completed run: 55 written, 127 total, zero failures, zero losses. Sept 29, 2026, 04:41 AM.
 | Ship 7 | msgvault Adapter | [a-mirror-of-my-becoming-suite-msgvault-adapter](https://github.com/qaevelyn/a-mirror-of-my-becoming-suite-msgvault-adapter) | Paper: [The Missing Link](https://qaevelyn.github.io/white-papers/the-missing-link/) |
 **Ship 7 receipts (video):** dry run https://youtu.be/BO3FFlEsyxQ · run 2, rows 201–400, never re-ingest https://youtu.be/mYyLKLq2l7w
-| Ship 8 | DV14: The Box — AI containment blueprint (concept, © all rights reserved) | [a-mirror-of-my-becoming-suite-dv14-ai-containment-blueprint](https://github.com/qaevelyn/a-mirror-of-my-becoming-suite-dv14-ai-containment-blueprint) |
+| Ship 8 | DV14™: The Box — AI containment blueprint (concept, © all rights reserved) | [a-mirror-of-my-becoming-suite-dv14-ai-containment-blueprint](https://github.com/qaevelyn/a-mirror-of-my-becoming-suite-dv14-ai-containment-blueprint) |
 
 
 ---
