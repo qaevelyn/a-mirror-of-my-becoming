@@ -12,7 +12,7 @@ A sovereign AI portfolio built locally on consumer hardware (8 GB Intel MacBook 
 
 | Ship | What | Repo |
 |------|------|------|
-| Ship 9 | Protocol Companion™ — ultrasound patient-preparedness architecture (concept, © all rights reserved, commercial license only, review under NDA) | private — concept spread at [the lookbook](https://qaevelyn.github.io/lookbook.html) |
+| Ship 9 | Radiology Companion™ — ultrasound patient-preparedness architecture (concept, © all rights reserved, commercial license only, review under NDA) | private — concept spread at [the lookbook](https://qaevelyn.github.io/lookbook.html) |
 | Ship 8 | DV14™: The Box — AI containment blueprint (concept, © all rights reserved, commercial license only, review under NDA) | [a-mirror-of-my-becoming-suite-dv14-ai-containment-blueprint](https://github.com/qaevelyn/a-mirror-of-my-becoming-suite-dv14-ai-containment-blueprint) |
 
 ## The Study Manual — open fleet
